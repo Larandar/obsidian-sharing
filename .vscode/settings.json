@@ -7,6 +7,7 @@
     // Configure prettier for all files
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[typescript]": {
+        "editor.tabSize": 4,
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
 
